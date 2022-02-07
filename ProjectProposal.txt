@@ -8,6 +8,7 @@ Include
 Team Members:
 
 Dev Akre
+Takashi Kanazawa
 
     List of people you met with
     A list of the stakeholders
