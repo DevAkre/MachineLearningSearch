@@ -1,0 +1,16 @@
+Project Proposal 
+
+Meet with the project stakeholders and collect initial information of the partner’s needs, and create an inital description of what is the nature of the problem that need solving. What are the major functions, and and what information needs to be managed.
+Include
+
+    Information about the organization
+
+Team Members:
+
+Dev Akre
+
+    List of people you met with
+    A list of the stakeholders
+    An overview of the goals of the project
+    A description of major functions and important project attributes 
+    A description of the data being stored and processed
