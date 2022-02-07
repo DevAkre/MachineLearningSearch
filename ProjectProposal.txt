@@ -7,8 +7,9 @@ Include
 
 Team Members:
 
-Dev Akre
+Dev AkreD
 Takashi Kanazawa
+Joseph Duke-Cohan
 
     List of people you met with
     A list of the stakeholders
