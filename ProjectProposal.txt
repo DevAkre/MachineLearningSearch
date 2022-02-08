@@ -7,7 +7,7 @@ Include
 
 Team Members:
 
-Dev AkreD
+Dev Akre
 Takashi Kanazawa
 Joseph Duke-Cohan
 Youhui Pang
@@ -17,3 +17,4 @@ Youhui Pang
     An overview of the goals of the project
     A description of major functions and important project attributes 
     A description of the data being stored and processed
+Hello
